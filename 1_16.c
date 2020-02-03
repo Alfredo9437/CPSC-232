@@ -38,6 +38,7 @@ int main(){
             Copying_To(Curr_Line, Longest_Line);
         }
     }
-    printf("%s \n", Longest_Line);
+
+    printf("This was the longest line...\n%s\n", Longest_Line);
 
 }
